@@ -3,16 +3,7 @@
     color: red;
     font-size: 46px;
   }
-.welcome-text {
-    font-family: Pacifico;
-    color: yellow;
-    font-size: 24px;
-    text-align: center;
-    margin-top: 10px;
-    position: absolute;
-    top: 20px;
-    width: 100%;
-}
+
 
 html,body{height:100%;margin:0;padding:0;background-image: url("http://santhosh.comxa.com/dsm/moonlight.jpg");}
 ul,li{text-indent:0;text-decoration:none;margin:0;padding:0}
