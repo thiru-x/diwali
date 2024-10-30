@@ -3,6 +3,9 @@
     color: red;
     font-size: 46px;
   }
+.body{
+    margin: 0;
+}
 html,body{height:100%;margin:0;padding:0;background-image: url("http://santhosh.comxa.com/dsm/moonlight.jpg");}
 ul,li{text-indent:0;text-decoration:none;margin:0;padding:0}
 img{border:0}
